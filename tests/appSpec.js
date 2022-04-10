@@ -1,4 +1,3 @@
-// Helps to mimic div creations
 const TEST_PLAYERS = ["Spiderman"];
 const TEST_PLAYER = [0, "Spiderman", 'hero'];
 let HTMLElements = {};
